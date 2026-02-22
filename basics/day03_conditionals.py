@@ -1,4 +1,4 @@
-print("Day 03 - Learning Conditionals ")
+print("Day 03 - Learning Conditionals")
 
 age = 19
 
