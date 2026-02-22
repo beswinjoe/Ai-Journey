@@ -1,4 +1,4 @@
-print("Day 04 - Learning Loops ")
+print("Day 04 - Learning Loops")
 
 
 print("For loop example:")
